@@ -1,7 +1,7 @@
 Directions:
 1. make a new branch
 2. checkout that branch
-3. switch up a line (not just a removal or addition, but an edit)
+3. change a line (not just a removal or addition, but an edit)
 4. commit the change
 5. checkout master
 6. make a different change to the same line
