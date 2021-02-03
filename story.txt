@@ -1,5 +1,8 @@
 A long time ago, in a galaxy far, far away!
 
-Im going to say some more word in this file!!
+<<<<<<< HEAD
+=======
+Im going to say some more word in this file!!!
 
-This is now the third time I'm writing text in this file!!!
+I am now in my solo branch! Heck Yeah!!!!
+>>>>>>> solo
